@@ -12,7 +12,4 @@
     <bool name="enabledTransID">true</bool>
     <int name="recipientLimit">10</int>
     <int name="smsToMmsTextThreshold">3</int>
-    <string name="uaProfTagName">Profile</string>
-    <!-- XXX: userAgent? -->
-    <!-- XXX: uaProfUrl? -->
 </mms_config>
