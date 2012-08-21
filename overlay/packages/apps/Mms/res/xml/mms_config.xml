@@ -12,4 +12,5 @@
     <bool name="enabledTransID">true</bool>
     <int name="recipientLimit">10</int>
     <int name="smsToMmsTextThreshold">3</int>
+    <string name="uaProfUrl">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
 </mms_config>
